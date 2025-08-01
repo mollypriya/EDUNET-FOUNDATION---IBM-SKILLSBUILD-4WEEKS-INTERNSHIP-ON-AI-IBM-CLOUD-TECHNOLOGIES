@@ -1,6 +1,13 @@
 # EDUNET-FOUNDATION-IBM-SKILLSBUILD-4WEEKS-INTERNSHIP-ON-AI-IBM-CLOUD-TECHNOLOGIES
 # LearnMate: Agentic AI for Personalized Course Pathways 🎓🤖
 
+## 👤 Author
+
+**Name**: Molly Priya  
+**Email**: molly.priya.ug22@nsut.ac.in 
+**College**: Netaji Subhas University of Technology (NSUT), Delhi – B.Tech in Computer Science and Engineering (AI)
+
+
 ## 🚀 Project Overview
 
 LearnMate is an **Agentic AI Coach** designed to help students discover personalized learning paths based on their interests, skill levels, and goals. It dynamically interacts with users to assess their preferences and provides a tailored course roadmap that evolves over time.
