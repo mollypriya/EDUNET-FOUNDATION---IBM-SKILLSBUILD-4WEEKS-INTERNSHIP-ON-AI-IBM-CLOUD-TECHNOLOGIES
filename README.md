@@ -50,6 +50,18 @@ Students often struggle to identify the right learning path that aligns with the
 
 > "I’m interested in Frontend Development. I know basic HTML and CSS, and I can spend 5 hours per week learning. I want to become a frontend developer in 6 months. What should my learning roadmap look like?"
 
+---
+
+## 🌐 IBM Cloud Deployment Preview
+
+![IBM Cloud Deployment Screenshot](ibm_cloud_preview.png)
+
+---
+
+## 🖥️ Local Deployment Preview
+
+![Local Deployment Screenshot](local_deployment_preview.png)
+
 ## 📈 Future Scope
 
 - 📱 Mobile app version for anytime learning
