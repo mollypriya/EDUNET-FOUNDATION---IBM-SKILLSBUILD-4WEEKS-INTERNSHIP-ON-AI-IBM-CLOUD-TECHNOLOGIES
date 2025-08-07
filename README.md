@@ -3,9 +3,11 @@
 
 ## 👤 Author
 
-**Name**: Molly Priya  
-**Email**: molly.priya.ug22@nsut.ac.in 
-**College**: Netaji Subhas University of Technology (NSUT), Delhi – B.Tech in Computer Science and Engineering (AI)
+- **Name**: Molly Priya  
+- **Email**: [molly.priya.ug22@nsut.ac.in](mailto:molly.priya.ug22@nsut.ac.in)  
+- **College**: Netaji Subhas University of Technology (NSUT), Delhi – B.Tech in Computer Science and Engineering (AI)  
+- **AICTE Student ID**: STU68394db3d86cc1748585907
+
 
 
 ## 🚀 Project Overview
